@@ -2,4 +2,4 @@
 *.gcode
 priv_*
 zzz*
-sfact_profiles
+#sfact_profiles
