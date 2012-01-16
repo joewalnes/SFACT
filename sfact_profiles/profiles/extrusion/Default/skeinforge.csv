@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	400+0
-Open File for Skeinforge	
+WindowPosition	422+33
+Open File for Skeinforge	/home/jwalnes/Downloads/Duplo_Cable_Tidy_Blank.stl
 analyze	False
 craft	True
 help	False
